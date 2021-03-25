@@ -1,0 +1,36 @@
+a:hover {
+  font-weight: bold;
+}
+
+body {
+  background-color: #d8ebe4;
+}
+
+h1, h3 {
+  color: #007580;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-shadow: 1px 1px 2px grey;
+}
+
+h3 {
+  background-color: lightgrey;
+  border-color: lightgrey;
+  border-style: solid;
+  border-width: 6px;
+}
+
+hr {
+  border-color: #007580;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 12px;
+  width: 10%;
+}
+
+img {
+  box-shadow: 1px 1px 4px grey;
+  border-radius: 50%;
+}
